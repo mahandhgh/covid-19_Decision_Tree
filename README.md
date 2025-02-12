@@ -16,6 +16,7 @@ Visualization: Displays decision tree structure and feature importance.
 ## ▶️ How to Run
 #### Clone the repository:
 `git clone https://github.com//decision-tree-covid.git`
+
 `cd decision-tree-covid`
 
 #### Launch Jupyter Notebook:
